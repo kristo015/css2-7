@@ -1,0 +1,126 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.black_border {
+    width: 1, 604px;
+    margin-left: 158px;
+    margin-right: 158px;
+    margin-bottom: 226px;
+    padding: 96px;
+    border: 96px solid #1B0E0F;
+    margin-top: 226px;
+}
+
+.header_h {
+    height: 1, 412px;
+    padding-right: 32px;
+    padding-left: 32px;
+    margin-bottom: 56px;
+}
+
+#header_pp {
+    width: 100%;
+    font-weight: 600;
+    text-align: center;
+    color: #002afe;
+    font-size: 16px;
+    margin-bottom: 12px;
+}
+
+h1 {
+    width: 100%;
+    font-weight: 600;
+    font-size: 48px;
+    line-height: 60px;
+    text-align: center;
+    color: #181d27;
+    margin-bottom: 24px;
+}
+
+#header_p {
+    width: 100%;
+    text-align: center;
+    font-weight: 400;
+    line-height: 30px;
+    font-size: 20px;
+    color: #535862;
+}
+
+/* header */
+
+
+.qve_div {
+    width: 1, 280px;
+    margin-left: 66px;
+    margin-right: 66px;
+}
+
+#pirveli_img {
+    width: 100px;
+    height: 50px;
+    border-radius: 16px;
+    vertical-align: middle;
+    display: inline-block;
+}
+
+.info_box {
+    width: 584px;
+    vertical-align: middle;
+    display: inline-block;
+
+
+}
+
+.pirveli_p {
+    width: 100%;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 20px;
+    color: #6941c6;
+}
+
+.title {
+    width: 100%;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 32px;
+    color: #181d27;
+}
+
+.info {
+    width: 100%;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #535862;
+}
+
+.chanarti {
+    width: 130px;
+    margin-top: 24px;
+}
+
+.Natali {
+    width: 40px;
+    height: 40px;
+    border-radius: 9999px;
+    display: inline-block;
+}
+
+.name {
+    color: #181d27;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.birth {
+    width: 82px;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    color: #535862;
+    display: inline-block;
+}
